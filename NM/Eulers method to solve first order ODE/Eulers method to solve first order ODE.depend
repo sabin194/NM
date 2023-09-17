@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694975503 source:c:\users\acer\desktop\nm\sabin\eulers method to solve first order ode\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

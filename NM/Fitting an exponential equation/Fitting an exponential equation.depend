@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694974365 source:c:\users\acer\desktop\nm\sabin\fitting an exponential equation\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

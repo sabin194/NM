@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694972748 source:c:\users\acer\desktop\nm\sabin\non linear eqn using bisection method\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

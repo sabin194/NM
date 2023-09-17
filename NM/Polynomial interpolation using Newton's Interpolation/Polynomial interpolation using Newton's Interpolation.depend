@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694973630 source:c:\users\acer\desktop\nm\sabin\polynomial interpolation using newton's interpolation\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

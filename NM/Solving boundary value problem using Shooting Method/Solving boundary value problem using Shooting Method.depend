@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694976077 source:c:\users\acer\desktop\nm\sabin\solving boundary value problem using shooting method\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694974936 source:c:\users\acer\desktop\nm\sabin\solving linear system using jacobi's iterative method\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
